@@ -1,0 +1,15 @@
+{
+  "name": "mqtt-demo",
+  "version": "1.0.0",
+  "description": "MQTT demo for the IoT Workshop Budapest.",
+  "author": "György Balássy (http://gyorgybalassy.wordpress.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/balassy/mqtt-demo.git"
+  },
+  "dependencies": {
+    "mosca": "^0.29.0",
+    "mqtt": "^1.1.5"
+  }
+}
